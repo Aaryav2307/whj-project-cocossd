@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin-top: 30px;
+    background-image:linear-gradient(to bottom, pink, hotpink, skyblue, cyan, violet);
+    font-family: Poppins;
+}
+
+#cool {
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+html{
+    background-image:linear-gradient(to bottom, pink, hotpink, skyblue, cyan, violet);
+}
+
+
+#btn-pg{
+    background-color:white;
+    border:white;
+    font-size:20px;
+    border-radius:30px;
+}

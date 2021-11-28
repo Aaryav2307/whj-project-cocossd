@@ -1,0 +1,38 @@
+.heading {
+    font-size: 35px;
+    width: 70%;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Courier Prime', monospace;
+    background-color:rgba(255, 204, 0, 0.557);
+    border-radius: 10.5px;
+    color: rgba(45, 45, 45, 0.879);
+
+
+}
+
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#status{
+    margin-top: 400;
+    margin-right:1057px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: rgba(45, 45, 45, 0.543);
+}
+
+
+canvas{
+    border-radius: 10;
+    border:5px solid rgba(252, 231, 0, 0.584);
+    margin-top:80px;
+    margin-left: -25px;
+    box-shadow:5px 5px 20px rgba(252, 97, 0, 0.584);
+}
